@@ -11,6 +11,3 @@ Desarrollador en CABA, Argentina. Me dedico a construir portales web y automatiz
 ![JavaScript](https://img.shields.io/badge/JavaScript-222?logo=javascript&logoColor=F7DF1E)
 ![Firebase](https://img.shields.io/badge/Firebase-222?logo=firebase&logoColor=FFCA28)
 ![Claude](https://img.shields.io/badge/Claude_Code-222?logo=anthropic&logoColor=white)
-
-## Contacto
-[LinkedIn](https://www.linkedin.com/in/)

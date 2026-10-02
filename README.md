@@ -4,7 +4,7 @@ Desarrollador y referente de sistemas en CABA, Argentina. Construyo portales web
 
 ## En qué ando
 
-- 🛰️ **Entorno de antenas Starlink**: aporte al desarrollo del ambiente junto con el equipo de Infraestructura de mi empresa.
+- 🛰️ **Infraestructura y conectividad**: colaboración con el equipo de Infraestructura en herramientas internas de monitoreo y gestión de equipos de red.
 - 📦 **App de Remitos** *(privado)*: seguimiento de envíos entre sucursales con QR, firma digital, recepción con diferencias por ítem, roles por nodo y PWA instalable. Node, Express y SQLite.
 - 🩺 **Portal Clínico** *(privado)*: gestión de pacientes y sesiones para profesionales de la salud, con aprobación de cuentas, reglas de seguridad por usuario y sincronización en la nube. React, Vite y Firebase.
 - 📰 **Portal de IA**: noticias reales de inteligencia artificial con pipeline automático y sin costo de tokens. [portaldeia.web.app](https://portaldeia.web.app)
